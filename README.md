@@ -26,11 +26,6 @@ Charts include:
 <br />
 <br />
 
-![Python, R, Tableau Charts](./data/density-plot-python.png)
-
-<br />
-<br />
-
 ## Built With
 
 Python 3, R, Tableau
